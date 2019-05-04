@@ -147,3 +147,9 @@ CMakeListsPrivate.txt
 
 #CLion
 cmake-build-*
+
+#eclipse
+.settings
+.cproject
+.project
+spec.d
